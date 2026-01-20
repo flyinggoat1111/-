@@ -1,0 +1,5 @@
+{
+  "name": "PinBear Pro Quotation System",
+  "description": "A high-end, React-based professional quotation generator featuring real-time A4 preview, multi-page terms management, and PDF export capabilities.",
+  "requestFramePermissions": []
+}
